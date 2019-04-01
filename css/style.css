@@ -49,6 +49,7 @@ figcaption {
 
 #logo h1 { /* selects <h1> if inside the id="logo" */
   font-family: 'Clicker Script', cursive;
+  
 }
 
 #logo h2 {
@@ -86,7 +87,8 @@ img, video, audio {
 
 .wrapper {
   width: 960px;
-  margin: 0 auto;
+  margin: 5em auto;
+  background-color: yellow;
   
 }
 
